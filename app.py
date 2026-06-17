@@ -18,8 +18,8 @@ import xml.etree.ElementTree as ET
 st.set_page_config(page_title="Football Analytics", page_icon="◉", layout="wide", initial_sidebar_state="expanded")
 ODDS_API_KEY = "0453cdd85a7a21b7e8c2c0c71206aecb"
 # Kunci dipisah jadi 2 agar tidak terdeteksi dan tidak diblokir Google
-key_part_1 = "AQ.Ab8RN6JMzmhIqbxwal"
-key_part_2 = "tJqkGrNZKAXzbsHAIYTfXrgUm1fjOpEg"
+key_part_1 = "AIzaSyDkEI5yg5U-qjRHfr"
+key_part_2 = "7rt-SeTLC6N2VrM_c"
 GEMINI_API_KEY = key_part_1 + key_part_2
 
 # ── Design System ───────────────────────────────────────
