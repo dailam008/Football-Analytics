@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+streamlit
+joblib
+xgboost
+shap
+matplotlib
+requests
+google-generativeai
