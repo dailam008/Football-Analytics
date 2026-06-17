@@ -17,7 +17,7 @@ import xml.etree.ElementTree as ET
 # ── Config ──────────────────────────────────────────────
 st.set_page_config(page_title="Football Analytics", page_icon="◉", layout="wide", initial_sidebar_state="expanded")
 ODDS_API_KEY = "0453cdd85a7a21b7e8c2c0c71206aecb"
-GEMINI_API_KEY = "AQ.Ab8RN6J2nrJpH2SNo3F2FE18eJVcpE9yN_0PSjKMzjiaXJaMng"
+GEMINI_API_KEY = "AQ.Ab8RN6JMzmhIqbxwaltJqkGrNZKAXzbsHAIYTfXrgUm1fjOpEg"
 
 # ── Design System ───────────────────────────────────────
 st.markdown("""
